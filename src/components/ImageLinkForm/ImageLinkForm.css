@@ -1,0 +1,11 @@
+.form {
+    width: 700px;
+    background: rgba(30,30,30,0.5);
+    background-size: 40px 60px;
+}
+
+.btn {
+    padding: 0;
+    border: none;
+    outline: none;
+}
